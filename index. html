@@ -89,7 +89,7 @@
 </head>
 <body>
   <header>
-    <h1>John Doe</h1>
+    <h1>Chanchal</h1>
     <p>Web Developer | Designer | Programmer</p>
     <nav>
       <a href="#about">About</a>
@@ -101,19 +101,19 @@
   <section id="about" class="about">
     <h2>About Me</h2>
     <p>Hello! I’m John, a passionate web developer with a love for creating modern, user-friendly websites. 
-    I specialize in HTML, CSS, JavaScript, and React. I enjoy problem-solving and building creative solutions.</p>
+    I specialize in HTML and CSS. I enjoy problem-solving and building creative solutions.</p>
   </section>
 
   <section id="projects" class="projects">
     <h2>Projects</h2>
     <div class="project">
       <h3>Portfolio Website</h3>
-      <p>A personal portfolio website built with HTML, CSS, and JavaScript.</p>
+      <p>A personal portfolio website built with HTML and CSS. </p>
       <a href="#" class="btn">View Project</a>
     </div>
     <div class="project">
-      <h3>Weather App</h3>
-      <p>A weather forecast app using an API to show live weather data.</p>
+      
+      <a href="https://github.com/chanchal-oss/Form-by-using-Html-and-css-"> click here </a>
       <a href="#" class="btn">View Project</a>
     </div>
   </section>
@@ -121,11 +121,11 @@
   <section id="contact" class="contact">
     <h2>Contact</h2>
     <p>If you’d like to get in touch, feel free to email me at:</p>
-    <p><strong>johndoe@example.com</strong></p>
+    <p><strong>chanchalsoni@example.com</strong></p>
   </section>
 
   <footer>
-    <p>© 2025 John Doe | All Rights Reserved</p>
+    <p>© 2025 chanchal | All Rights Reserved</p>
   </footer>
 </body>
 </html>
