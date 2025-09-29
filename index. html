@@ -112,8 +112,8 @@
       <a href="#" class="btn">View Project</a>
     </div>
     <div class="project">
-      
-      <a href="https://github.com/chanchal-oss/Form-by-using-Html-and-css-"> click here </a>
+      <h3> my first project</h3>
+      <a href="https://github.com/chanchal-oss/Form-by-using-Html-and-css-"> click here </a><br>
       <a href="#" class="btn">View Project</a>
     </div>
   </section>
